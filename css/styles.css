@@ -1,0 +1,72 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul {
+  margin: 0;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+  color: currentColor;
+}
+address {
+  font-style: normal;
+}
+
+body{
+    background-color: #11131F;
+    color: #F6F5EF;
+    font-family: 'DM Sans';
+}
+
+.about-block-text{
+    color: #F6F5EF;
+    font-family: DM Sans;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 120%;
+    letter-spacing: -1.44px;
+}
+
+.about-block-link{
+    font-family: DM Sans;
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 38.4px;
+    letter-spacing: -1.44px;
+}
+
+.about-block-div{
+    width: 514px;
+    margin-left: 32px;
+}
+
+.about-block-text-list{
+    list-style: none;
+    margin-left: 848px;
+    gap: 32px;
+    display: flex;
+}
+
+.about-block-text-list1{
+    width: 183px;
+}
+
+.about-block-text-list2{
+    width: 185px;
+}
+
+/*@media screen and (min-width: 1158px){
+
+}*/
+
+    
