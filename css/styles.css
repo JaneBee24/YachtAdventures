@@ -203,6 +203,7 @@ body{
     margin-right: 32px;
     margin-left: 336px;
     gap: 32px;
+    justify-content: flex-end;
   }
 
   .about-block-text-li1{
