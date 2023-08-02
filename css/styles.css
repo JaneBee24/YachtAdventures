@@ -57,6 +57,7 @@ body{
 
 .about-block-text-list{
     margin-right: 32px;
+    width: 400px;
     gap: 32px;
     display: flex;
     padding-bottom: 64px;
@@ -102,7 +103,7 @@ body{
 }
 
 
-@media screen and (min-width: 375px){
+@media screen and (min-width: 375px) and (max-width: 768px){
   .about-block-div{
     width: 335px;
     height: 145px;
@@ -199,6 +200,7 @@ body{
   .about-block-text-list{
     margin-right: 32px;
     margin-left: 336px;
+    width: 400px;
     gap: 32px;
     justify-content: flex-end;
   }
@@ -264,6 +266,7 @@ body{
 
 .about-block-text-list{
     margin-right: 32px;
+    width: 400px;
     gap: 32px;
     display: flex;
     padding-bottom: 64px;
